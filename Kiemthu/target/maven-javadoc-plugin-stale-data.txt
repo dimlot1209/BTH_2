@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/admin/Documents/NetBeansProjects/Kiemthu/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/admin/Documents/NetBeansProjects/Kiemthu/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Kiemthu 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Kiemthu 1.0-SNAPSHOT API'
+com.loc.kiemthu
+'C:/Users/admin/Documents/NetBeansProjects/Kiemthu/src/main/java/com/loc/kiemthu/demo.java'
+'C:/Users/admin/Documents/NetBeansProjects/Kiemthu/src/main/java/com/loc/kiemthu/Utils.java'
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\src\main\java = 1648295791241
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\allclasses-index.html = 1648575973692
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\allpackages-index.html = 1648575973699
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\element-list = 1648575973596
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\help-doc.html = 1648575973730
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\index-all.html = 1648575973720
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\index.html = 1648575973723
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\jquery-ui.overrides.css = 1648575973805
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\member-search-index.js = 1648575973707
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\module-search-index.js = 1648575973702
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\overview-tree.html = 1648575973671
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\package-search-index.js = 1648575973704
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\script.js = 1648575973735
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\search.js = 1648575973739
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\stylesheet.css = 1648575973733
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\tag-search-index.js = 1648575973709
+C:\Users\admin\Documents\NetBeansProjects\Kiemthu\target\site\apidocs\type-search-index.js = 1648575973706
